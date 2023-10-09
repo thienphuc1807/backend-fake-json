@@ -67,12 +67,6 @@
       "id": 11
     },
     {
-      "title": "mutate",
-      "author": "cikey",
-      "content": "test",
-      "id": 12
-    },
-    {
       "title": "Test",
       "author": "asasasasdasdd",
       "content": "qweqeqe",
@@ -83,12 +77,6 @@
       "author": "Test",
       "content": "qweqeq",
       "id": 14
-    },
-    {
-      "title": "asasasasdasdd",
-      "author": "asasasasdasdd",
-      "content": "aSASAS",
-      "id": 15
     },
     {
       "title": "123",
@@ -115,24 +103,6 @@
       "id": 19
     },
     {
-      "title": "1234566",
-      "author": "1234566",
-      "content": "12345565",
-      "id": 20
-    },
-    {
-      "title": "234",
-      "author": "234",
-      "content": "234",
-      "id": 21
-    },
-    {
-      "title": "123",
-      "author": "123",
-      "content": "123",
-      "id": 22
-    },
-    {
       "title": "123",
       "author": "12345",
       "content": "123",
@@ -149,12 +119,6 @@
       "author": "123",
       "content": "123",
       "id": 25
-    },
-    {
-      "title": "asd123",
-      "author": "asd123",
-      "content": "asd123",
-      "id": 26
     }
   ]
 }
